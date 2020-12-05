@@ -1,2 +1,2 @@
 # simple-redux-store
-Simple react sample for using redux concept
+Simple react sample using redux concept.
